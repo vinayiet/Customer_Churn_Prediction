@@ -101,5 +101,10 @@ The web app allows users to:
 
 ---
 
+## 🌐 Live App
 
+You can try the deployed app here:
+**\[https://customerchurnprediction-ufqpst4of6yzu79lmxpkbf.streamlit.app/]**
+
+---
 
